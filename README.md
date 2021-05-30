@@ -45,3 +45,5 @@ Please cite this paper if you use this dataset:
   publisher={Elsevier}
 }
 ```
+## 5.Contact
+If you have any problem in using the CHN6-CUG Roads Dataset, please contact: yanan.zhang@cug.edu.cn
