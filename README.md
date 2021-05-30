@@ -1,7 +1,10 @@
 # CHN6-CUG-Roads-Dataset
-A benchmark dataset for the paper:[A Global Context-aware and Batch-independent Network for road extraction from VHR satellite imagery](https://www.sciencedirect.com/science/article/pii/S0924271621000873),ISPRS Journal of Photogrammetry and Remote Sensing, vol. 175, pp. 353–365, 2021.
+Version 1.0
 
-## 1.Dataset
+## 1.Overview
+To advance the state of the arts in road extraction, CHN6-CUG Roads Dataset is constructed, which is a manually labeled pixel-level VHR satellite imagery. This data set is a new largescale satellite image data set of representative cities in China. The images are selected from six cities with different levels of urbanization, i.e., the Chaoyang area of Beijing, the Yangpu District of Shanghai, Wuhan city center, the Nanshan area of Shenzhen, the Shatin area of Hong Kong, and Macao.
+
+## 2.Dataset
 
 dataset tree:
 
@@ -21,13 +24,13 @@ We collected typical areas of six cities in China from [Google Earth](http://ear
 
 **Please note that we do not own the copyrights to these original satellite images. Their use is RESTRICTED to non-commercial research and educational purposes.**
 
-### 2.Download
+### 3.Download
 
 Download link: 
 
  - [BaiduYun](https://pan.baidu.com/s/14DBt1OC0VgvhO0QBNlS0gA)（Password: qjpd）
 
-## 3.Reference
+## 4.Reference
 
 Please cite this paper if you use this dataset:
 
